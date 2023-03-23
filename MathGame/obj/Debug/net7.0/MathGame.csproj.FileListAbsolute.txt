@@ -1,0 +1,15 @@
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\bin\Debug\net7.0\MathGame.exe
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\bin\Debug\net7.0\MathGame.deps.json
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\bin\Debug\net7.0\MathGame.runtimeconfig.json
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\bin\Debug\net7.0\MathGame.dll
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\bin\Debug\net7.0\MathGame.pdb
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\obj\Debug\net7.0\MathGame.csproj.AssemblyReference.cache
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\obj\Debug\net7.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\obj\Debug\net7.0\MathGame.AssemblyInfoInputs.cache
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\obj\Debug\net7.0\MathGame.AssemblyInfo.cs
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\obj\Debug\net7.0\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\obj\Debug\net7.0\MathGame.dll
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\obj\Debug\net7.0\refint\MathGame.dll
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\obj\Debug\net7.0\MathGame.pdb
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\obj\Debug\net7.0\MathGame.genruntimeconfig.cache
+C:\Users\lrivers7\Documents\Github\Personal\Learning-C-Sharp\MathGame\obj\Debug\net7.0\ref\MathGame.dll
