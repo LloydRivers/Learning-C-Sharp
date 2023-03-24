@@ -20,7 +20,7 @@ namespace MathGame
             int randomNum1;
             int randomNum2;
             Random random = new Random();
-            while (lives > 0)
+            
                 while (lives > 0)
                 {
                     randomOperation = random.Next(1, 5);
